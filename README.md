@@ -7,18 +7,17 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.16-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-9.16-blue?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-6A5ACD?style=for-the-badge&logo=gnuplot&logoColor=white" alt="Data Science" />&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge&logo=linkedin&logoColor=white" alt="Opportunities" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
 🎓 Computer Engineering Student  
 📊 Passionate about **Data Science & ML**  
@@ -28,7 +27,7 @@
 
 </td>
 
-<td width="45%">
+<td width="50%">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
 </td>
 </tr>
@@ -54,7 +53,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ### 📊 Air Quality Analysis  
 ✔ AQI trend analysis  
@@ -63,7 +62,7 @@
 
 </td>
 
-<td width="50%">
+<td width="55%">
 
 ### 🌍 Travel Website  
 ✔ Responsive UI  
