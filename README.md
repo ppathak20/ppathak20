@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-6A5ACD?style=for-the-badge&logo=gnuplot&logoColor=white" alt="Data Science" />&nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge&logo=linkedin&logoColor=white" alt="Opportunities" />
 </p>
----
+
 
 ## 👩‍💻 About Me
 
@@ -29,6 +29,7 @@
 
 <td width="50%">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
+
 </td>
 </tr>
 </table>
@@ -101,9 +102,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" />
 </p>
----
+
 
 <p align="center">
   ✨ <b>Turning Data into Decisions</b> ✨
