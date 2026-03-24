@@ -1,110 +1,112 @@
 <h1 align="center">Hi 👋, I'm Priya Pathak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Insights" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-9.16-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.E. Computer Engineering Student (Ahmedabad Institute of Technology)  
-- 📊 Passionate about **Data Science, Machine Learning & Analytics**  
-- 🐍 Skilled in **Python, SQL, and Data Visualization**  
-- 🌱 Currently exploring **real-world ML projects & deployment tools**  
-- 🎯 Goal: Build impactful data-driven solutions  
+
+<table>
+<tr>
+<td width="55%">
+
+🎓 Computer Engineering Student  
+📊 Passionate about **Data Science & ML**  
+🐍 Skilled in **Python, SQL & Data Analysis**  
+🚀 Exploring real-world datasets  
+🎯 Goal: Build impactful solutions  
+
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** Python, Java (Basics)  
-- **Libraries:** Pandas, NumPy, Matplotlib  
-- **Web:** HTML, CSS  
-- **Database:** MySQL  
-- **Tools:** VS Code, Git, GitHub, Jupyter Notebook, Kaggle  
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?style=flat-square"/>
+</p>
 
 ---
 
-## 🚀 Projects
-- 📊 **Air Quality Statistical Data Analysis**  
-  - Analyzed pollution data (PM2.5, PM10, AQI)  
-  - Identified trends & seasonal patterns  
-  - Created visualizations for insights  
+## 🚀 Featured Projects
 
-- 🌍 **Travel & Tourism Website (Hackathon Project)**  
-  - Built a responsive travel platform  
-  - Helped users explore destinations & plan trips  
-  - Integrated multiple services in one interface  
+<table>
+<tr>
+<td width="50%">
 
----
+### 📊 Air Quality Analysis  
+✔ AQI trend analysis  
+✔ Seasonal pattern detection  
+✔ Data visualization  
 
-## 💼 Internship Experience
-### Data Science Trainee – QSpiders (2026 – Present)
-- Working on Python, SQL, and data analysis  
-- Hands-on ML models & visualization  
-- Exposure to real-world datasets & deployment basics  
+</td>
 
-### Python Internship Trainee – Brainybeam Info-Tech Pvt. Ltd. (2025)
-- Hands-on training in Data Science & ML  
-- Worked on preprocessing, model building & evaluation  
-- Learned industry workflows  
+<td width="50%">
 
----
+### 🌍 Travel Website  
+✔ Responsive UI  
+✔ Trip planning features  
+✔ User-friendly design  
 
-## 🏆 Certifications
-- 📜 SAP Edunet Advanced Course (2024)  
-- 📜 Google Solution Challenge  
-- 🎖️ NCC ‘B’ Certificate (Air Force)  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Achievements
-- 🥈 College Finalist – Smart India Hackathon (2023, 2024)  
-- 🏆 Dewang Mehta IT Award for Academic Excellence  
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathak20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathak20&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🌟 Interests
-- 💡 Mentoring & helping others grow  
-- 🏸 Playing badminton  
-- 📈 Continuous learning in tech  
+## 🌐 Connect With Me
 
----
-
-## 🌐 Languages
-- English  
-- Hindi  
-
----
-
-## 📫 Connect with Me
 <p align="center">
   <a href="mailto:pr758612@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/priya-kumari2004">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pathak20">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathak20&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathak20&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathak20&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200px" alt="Coding GIF"/>
+  ✨ <b>Turning Data into Decisions</b> ✨
 </p>
-
-✨ *“Transforming Data into Meaningful Insights”* ✨
